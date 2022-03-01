@@ -1,0 +1,3 @@
+```mysql
+SELECT * FROM tables
+```
